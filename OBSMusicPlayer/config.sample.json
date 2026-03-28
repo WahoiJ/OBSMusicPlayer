@@ -1,8 +1,9 @@
 ﻿{
-  "ObsUrl": "ws://localhost:input your localhostAddress",
-  "ObsPassword": "WebPacketPassword",
-  "MusicFolder": "C:\\your\\Music\\Directry\\Path",
+  "ObsUrl": "ws://localhost:4455",
+  "ObsPassword": "your_password_here",
+  "MusicFolder": "C:\\path\\to\\your\\music",
   "SourceText": "CurrentSong",
   "HistoryRatio": 0.5,
-  "MaxRetries": 3
+  "MaxRetries": 3,
+  "Volume": 0.7
 }
