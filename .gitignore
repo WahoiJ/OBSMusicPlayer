@@ -4,6 +4,7 @@ config.json
 # ビルド出力
 bin/
 obj/
+publish/
 
 # Visual Studio
 .vs/
