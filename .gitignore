@@ -1,4 +1,19 @@
+# 設定ファイル（パスワード等が含まれるため除外）
 config.json
+
+# ビルド出力
 bin/
 obj/
+
+# Visual Studio
 .vs/
+*.user
+*.suo
+*.cache
+
+# NuGet
+*.nupkg
+packages/
+
+# 発行プロファイル（ローカル環境依存）
+**/Properties/PublishProfiles/
